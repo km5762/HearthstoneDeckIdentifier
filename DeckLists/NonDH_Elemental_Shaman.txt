@@ -1,0 +1,25 @@
+### Elemental Shaman
+# Class: Shaman
+# Format: Standard
+# Year of the Gryphon
+#
+# 2x (1) Wailing Vapor
+# 2x (1) Lightning Bolt
+# 2x (1) Kindling Elemental
+# 2x (2) Cagematch Custodian
+# 2x (2) Auctionhouse Gavel
+# 2x (3) Whack-A-Gnoll Hammer
+# 2x (3) Serpentshrine Portal
+# 2x (3) Primal Dungeoneer
+# 1x (3) Instructor Fireheart
+# 2x (3) Gyreworm
+# 2x (3) Arid Stormer
+# 2x (4) Granite Forgeborn
+# 2x (4) Canal Slogger
+# 2x (5) Lilypad Lurker
+# 2x (6) Fire Elemental
+# 1x (8) Al'Akir the Windlord
+#
+AAECAaoIApzOA4CgBA7buAOq3gOr3gOM4QPg7APh7AOt7gOv7gPj7gPW9QPA9gPB9gOMnwT5nwQA
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+# Find this deck on https://hsreplay.net/decks/hlN4CUHNDGCNyTPxWFxotc/

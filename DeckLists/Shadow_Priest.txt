@@ -1,0 +1,27 @@
+### Aggro Shadow Priest
+# Class: Priest
+# Format: Standard
+# Year of the Gryphon
+#
+# 2x (0) Raise Dead
+# 2x (1) Voidtouched Attendant
+# 2x (1) Tour Guide
+# 2x (1) Peasant
+# 2x (1) Guardian Augmerchant
+# 2x (1) Frazzled Freshman
+# 2x (2) Wriggling Horror
+# 2x (2) Twilight Deceptor
+# 1x (2) Thrive in the Shadows
+# 1x (2) Serena Bloodfeather
+# 2x (2) Kul Tiran Chaplain
+# 2x (2) Defias Leper
+# 2x (2) Cult Neophyte
+# 1x (3) Mankrik
+# 2x (4) Void Shard
+# 1x (4) Najak Hexxen
+# 1x (5) Darkbishop Benedictus
+# 1x (6) Mr. Smite
+#
+AAECAa0GBp/rA+fwA7v3A7+ABK2KBIujBAzevgObzQPXzgO70QOL1QPK4wP09gOI9wOj9wOt9wONgQTvnwQA
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+# Find this deck on https://hsreplay.net/decks/MBpMYqFjQPKJEHlo6xFDue/

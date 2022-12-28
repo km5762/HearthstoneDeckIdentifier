@@ -1,0 +1,25 @@
+### Aggro Druid
+# Class: Druid
+# Format: Standard
+# Year of the Gryphon
+#
+# 2x (1) Vibrant Squirrel
+# 2x (1) Peasant
+# 2x (1) Guardian Augmerchant
+# 1x (1) Argent Squire
+# 2x (1) Adorable Infestation
+# 2x (2) Razormane Battleguard
+# 2x (2) Far Watch Post
+# 2x (2) Encumbered Pack Mule
+# 2x (2) Composting
+# 2x (2) Bonechewer Brawler
+# 2x (2) Annoy-o-Tron
+# 2x (3) Oracle of Elune
+# 2x (4) Park Panther
+# 2x (5) Teacher's Pet
+# 1x (5) Greybough
+# 2x (5) Arbor Up
+#
+AAECAZICAqbhA5WgBA7XvgPevgOSzQO50gOM5AP36AO57AOI9APJ9QPR9gP09gOB9wOE9wPWoAQA
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+# Find this deck on https://hsreplay.net/decks/CuXqSI9FQLkollIHsRyWCg/
